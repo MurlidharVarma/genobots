@@ -1,5 +1,5 @@
 # genobots
-Visualize how the genetic algorithm comes to play into finding a target.
+Visualize how genetic algorithm comes to play while seeling a target.
 
 At a high-level the algorigth follows below steps
 1. The yellow rectangles are bots and the Magenta circle is the Target where we need all the bots to reach (eventually).
